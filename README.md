@@ -9,7 +9,7 @@ This is a multidisciplinary course that invites students to learn about the unde
 
 ## Uploaded Projects
 
-- Tic-Tac-Toe: [challenge_04]((https://github.com/CChirpy/IMM360/tree/main/challenge_04))
+- Tic-Tac-Toe: [challenge_04](https://github.com/CChirpy/IMM360/tree/main/challenge_04)
 - First-Person Shooter: [project_1v2](https://github.com/CChirpy/IMM360/tree/main/project_1v2)
 - Slime Time: [project_2](https://github.com/CChirpy/IMM360/tree/main/project_2): 
 
