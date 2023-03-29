@@ -1,0 +1,8 @@
+The challenge is to create a playable Tic-Tac-Toe, following these requirements:
+
+1. Create the grid using sprites
+2. Create objects for the X and O using sprites
+3. Implement placement based on mouse click (pieces should only be placed in valid locations)
+4. Set up turns so that after one click, the other sprite becomes active
+5. Prevent playing on an already-played spot
+6. Stretch Challenge: Determine a winner or stalemate and present the result to the players. Without the stretch challenge, the game is still playable but the players need to do the work that this stretch challenge would implement.
