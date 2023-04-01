@@ -3,15 +3,15 @@
 - Games I: Design &amp; Architecture | Fall 2022
 - Class taught by [Professor Fishburn](https://dct.tcnj.edu/people/faculty/josh-fishburn/)
 
-## Course Description
-
-This is a multidisciplinary course that invites students to learn about the underlying architecture of a game engine while deepening their skills in object-oriented programming and digital game design. This is both an advanced and an introductory course. It is introductory in that it is the first of a two-course sequence in game development in the Interactive Multimedia program. It is advanced in that it assumes preexisting experience with object-oriented programming and assumes that students will be able to quickly get up to speed with it. Students will emerge from the class with stronger programming skills, experience designing and implementing digital game prototypes, familiarity with elements of digital games, such as the asset pipeline of a game engine, audio integrations, designing and building of typical game systems, industry trends and more.
-
 ## Uploaded Projects
 
 - Tic-Tac-Toe: [challenge_04](https://github.com/CChirpy/IMM360/tree/main/challenge_04)
 - First-Person Shooter: [project_1v2](https://github.com/CChirpy/IMM360/tree/main/project_1v2)
-- Slime Time: [project_2](https://github.com/CChirpy/IMM360/tree/main/project_2): 
+- Slime Time: [project_2](https://github.com/CChirpy/IMM360/tree/main/project_2)
+
+## Course Description
+
+This is a multidisciplinary course that invites students to learn about the underlying architecture of a game engine while deepening their skills in object-oriented programming and digital game design. This is both an advanced and an introductory course. It is introductory in that it is the first of a two-course sequence in game development in the Interactive Multimedia program. It is advanced in that it assumes preexisting experience with object-oriented programming and assumes that students will be able to quickly get up to speed with it. Students will emerge from the class with stronger programming skills, experience designing and implementing digital game prototypes, familiarity with elements of digital games, such as the asset pipeline of a game engine, audio integrations, designing and building of typical game systems, industry trends and more.
 
 ## Learning Goals
 
